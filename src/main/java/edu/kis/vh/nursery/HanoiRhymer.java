@@ -15,3 +15,5 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
             super.countIn(in);
     }
 }
+
+// In eclipse you can use alt + left/right arrow to move between places you were
