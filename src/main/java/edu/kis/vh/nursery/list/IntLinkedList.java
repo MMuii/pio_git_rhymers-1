@@ -4,7 +4,7 @@ public class IntLinkedList {
 
     private static final int EMPTY_LIST_RETURN_VALUE = -1;
 
-    Node last;
+    private Node last;
     int i;
 
     public void push(int i) {
